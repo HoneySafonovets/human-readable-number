@@ -53,4 +53,4 @@ if (number === 100 || number === 200 || number === 300 || number === 400 ||
     return firstArray[thirtyArray[0] - 1] + 'hundred ' + fiveArray[thirtyArray[1] - 1] + firstArray[thirtyArray[2] - 1]
   }
 }
-console.log(toReadable(567));
+// console.log(toReadable(567));
